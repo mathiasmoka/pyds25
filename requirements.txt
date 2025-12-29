@@ -1,5 +1,5 @@
-numpy
-pandas
-geopandas
-
-#à compléter
+openmeteo-requests
+requests-cache
+folium
+retry-requests
+nbformat

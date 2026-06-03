@@ -1,6 +1,7 @@
 # Car crashes and weather - Pyds25
 By Mathias Pisch and Anthony Gerbier  
-Project supervised by Aldric Labarthe, for the Lino Galiana course « Python for Data Science ». 
+Project supervised by Aldric Labarthe, for the Lino Galiana course « Python for Data Science ».
+**This project has been graded 19/20 by ENSAE Paris.**
 
 # Motivations
 
